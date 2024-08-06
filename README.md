@@ -18,3 +18,14 @@ Features should be develooped on branches to create and switch to a branch, use 
 To swicth to an existing branch, use 
 
 `git switch BRANNCH_NAME`
+
+## adding features
+Features should be developed on branches.
+To create and switch to that branch:
+
+`git switch -c NEW_BRANCH_NAME`
+
+To switch branches:
+
+`git switch BRANCH_NAME`
+
